@@ -183,19 +183,6 @@ Create a `.env.local` file in the project root (copy from `.env.example`):
 
 ---
 
-## 👨‍💻 About the Developer
-
-**Pankaj Kumar Sah** is a B.Tech Electronics & Communication Engineering student at **Academy of Technology (MAKAUT)**, West Bengal, India, specializing in full-stack web development.
-
-**Core Stack:**
-- **Frontend:** React.js, TypeScript, TailwindCSS
-- **Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO)
-- **Database:** MongoDB, MySQL
-- **Languages:** JavaScript, Java, Python
-- **CS Fundamentals:** DSA, OOP, DBMS, OS, Computer Networks
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -212,19 +199,6 @@ Contributions, issues, and feature requests are welcome!
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
 
----
-
-## 📬 Contact
-
-**Pankaj Kumar Sah**
-
-- 🐙 GitHub: [@pankaj-kumar-sah](https://github.com/pankaj-kumar-sah)
-- 💼 LinkedIn: [pankaj-kumar-sah](https://linkedin.com)
-- 🌐 Portfolio: [Live Site](https://ai.studio/apps/a681086f-2b2e-442d-a0cb-6bf0308695df)
-
----
-
-<div align="center">
 
 Made with ❤️ by **Pankaj Kumar Sah**
 
