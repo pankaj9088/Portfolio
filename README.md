@@ -10,7 +10,7 @@
 
 > A modern, animated, and fully responsive full-stack developer portfolio showcasing skills, projects, experience, and more — powered by React, TypeScript, and the Gemini AI API.
 
-[🌐 Live Demo](https://pankaj-kumar-sah-portfolio.ai.studio) · [📂 GitHub](https://github.com/pankaj9088) · [💼 LinkedIn](https://www.linkedin.com/in/pankaj-kumar-sah-977538380/)
+[🌐 Live Demo](https://pankaj-kumar-sah-portfolio.ai.studio)
 
 </div>
 
