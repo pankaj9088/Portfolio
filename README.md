@@ -6,7 +6,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-06b6d4?style=for-the-badge)](https://pankaj-kumar-sah-portfolio.ai.studio)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-06b6d4?style=for-the-badge)](https://pankaj-kumar-sah-portfolio.ai.studio) 
 
 > A modern, animated, and fully responsive full-stack developer portfolio showcasing skills, projects, experience, and more — powered by React, TypeScript, and the Gemini AI API.
 
