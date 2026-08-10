@@ -13,7 +13,7 @@
 
 > A modern, animated, and fully responsive full-stack developer portfolio showcasing skills, projects, experience, and more — powered by React, TypeScript, and the Gemini AI API.
 
-[🌐 Live Demo](https://ai.studio/apps/a681086f-2b2e-442d-a0cb-6bf0308695df) · [📂 GitHub](https://github.com/pankaj-kumar-sah) · [💼 LinkedIn](https://linkedin.com)
+[🌐 Live Demo](https://ai.studio/apps/a681086f-2b2e-442d-a0cb-6bf0308695df)
 
 </div>
 
