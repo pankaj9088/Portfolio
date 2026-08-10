@@ -10,10 +10,11 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-06b6d4?style=for-the-badge)](https://pankaj-kumar-sah-portfolio.ai.studio)
 
 > A modern, animated, and fully responsive full-stack developer portfolio showcasing skills, projects, experience, and more — powered by React, TypeScript, and the Gemini AI API.
 
-[🌐 Live Demo](https://ai.studio/apps/a681086f-2b2e-442d-a0cb-6bf0308695df) · [📂 GitHub](https://github.com/pankaj-kumar-sah) · [💼 LinkedIn](https://linkedin.com)
+[🌐 Live Demo](https://pankaj-kumar-sah-portfolio.ai.studio) · [📂 GitHub](https://github.com/pankaj9088) · [💼 LinkedIn](https://www.linkedin.com/in/pankaj-kumar-sah-977538380/)
 
 </div>
 
@@ -218,9 +219,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 **Pankaj Kumar Sah**
 
-- 🐙 GitHub: [@pankaj-kumar-sah](https://github.com/pankaj-kumar-sah)
-- 💼 LinkedIn: [pankaj-kumar-sah](https://linkedin.com)
-- 🌐 Portfolio: [Live Site](https://ai.studio/apps/a681086f-2b2e-442d-a0cb-6bf0308695df)
+- 🐙 GitHub: [@pankaj9088](https://github.com/pankaj9088)
+- 💼 LinkedIn: [pankaj-kumar-sah](https://www.linkedin.com/in/pankaj-kumar-sah-977538380/)
+- 🌐 Portfolio: [pankaj-kumar-sah-portfolio.ai.studio](https://pankaj-kumar-sah-portfolio.ai.studio)
+- 📧 Email: sahpankajkumar690@gmail.com
 
 ---
 
