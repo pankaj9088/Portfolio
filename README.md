@@ -1,8 +1,4 @@
-<div align="center">
-
-<img width="100%" alt="Portfolio Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=200&section=header&text=Pankaj%20Kumar%20Sah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20Portfolio&descAlignY=60&descColor=e2e8f0" />
-
-# 🚀 Pankaj Kumar Sah — Full Stack Developer Portfolio
+# 🚀 Portfolio
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
