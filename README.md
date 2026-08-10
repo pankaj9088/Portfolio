@@ -104,8 +104,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pankaj-kumar-sah/pankaj-kumar-sah-_-full-stack-web-developer.git
-   cd pankaj-kumar-sah-_-full-stack-web-developer
+   git clone https://github.com/pankaj9088/Portfolio.git
+   cd Portfolio
    ```
 
 2. **Install dependencies:**
